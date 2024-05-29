@@ -1,4 +1,17 @@
-
+################################
+# https://github.com/Ravimaya/03230239_BIA101_CAP3
+# Ravimaya Gurung
+# BBI "B"
+# 03230239
+################################
+# REFERENCES
+# Links that you referred while solving 
+# the problem
+# http://link.to.an.article/video.com 
+################################
+# SOLUTION
+# Your Solution Score: 480443
+################################
 
 def read_input(file_name):
     with open(file_name, 'r') as file:
