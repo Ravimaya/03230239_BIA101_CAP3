@@ -5,9 +5,9 @@
 # 03230239
 ################################
 # REFERENCES
-# Links that you referred while solving 
-# the problem
-# http://link.to.an.article/video.com 
+# https://youtu.be/6jsCbjQB3y0?si=PnL1pR86UTW-NPjc
+# https://youtube.com/playlist?list=PLVJiPhsW8Gnf5rQCOXoptugEtJneB0ZOd&si=DqUGUWhZo9ZvxzNT
+
 ################################
 # SOLUTION
 # Your Solution Score: 480443
